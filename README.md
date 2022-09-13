@@ -5,3 +5,7 @@ The script first runs through creating an email which is saved in your outlook d
 Use with caution as you can accidentally send junk, or inintended messages to anyone.
 
 You need outlook install for this to work.  If you have multiple profiles then ensure you have outlook opened with the profile you actually want to use to send the emails.
+
+Before running install the requirements from the requirements file
+
+pip install -r requirements.txt
