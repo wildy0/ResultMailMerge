@@ -2,7 +2,7 @@ This script, when run, opens a file selector dialog.  The user should select the
 
 The script first runs through creating an email which is saved in your outlook draft folder.  Then pauses whilst you check through them for errors.   You can then abort, or choose to have the script send the emails.  You will then need to manually delete the drafts from the draft email box.
 
-Use with caution as you can accidentally send junk, or inintended messages to anyone.
+Use with caution as you can accidentally send junk, or unintended messages to anyone.
 
 You need outlook install for this to work.  If you have multiple profiles then ensure you have outlook opened with the profile you actually want to use to send the emails.
 
